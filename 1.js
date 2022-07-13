@@ -30,5 +30,5 @@ function drawSegitiSiku(length) {
         return (false);
     }
 }
-
-drawSegitiSiku(10)
+// untuk input length hanya dari 1 sampai 9
+drawSegitiSiku(9)
